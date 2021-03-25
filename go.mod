@@ -12,7 +12,7 @@ require (
 	github.com/mailru/easyjson v0.7.1
 	github.com/opentracing/opentracing-go v1.1.0
 	github.com/philhofer/fwd v1.0.0 // indirect
-	github.com/signalfx/golib v2.4.0+incompatible
+	github.com/signalfx/golib v2.5.1+incompatible
 	github.com/smartystreets/assertions v1.0.1 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/tinylib/msgp v1.1.0
